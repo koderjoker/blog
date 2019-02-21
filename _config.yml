@@ -1,42 +1,43 @@
-title:            Site Title
-description:      Describe your website here.
-disqus_shortname: 
+title:            Poetech
+description:      Poetry, coding, random musings...
+disqus_shortname:
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:
+url: 
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Kanchan
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          you@email.com
+  bio:            ">> I write sometimes >> I code sometimes"
+  email:
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
+  twitter:        koderjoker
+  facebook:
+  github:         koderjoker
+  stackexchange:
+  linkedin:
+  instagram:
+  flickr:
+  tumblr:
+  medium:         koderjoker
   # google plus id, include the '+', eg +mmistakes
   google_plus:
 
 # Background image to be tiled on all pages
-background: 
+background: https://images.unsplash.com/photo-1533327325824-76bc4e62d560?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
+google_analytics:
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
-future:      false  # publish future dated posts --  true, false (default) 
+timezone:    Asia/Kolkata
+future:      false  # publish future dated posts --  true, false (default)
 highlighter: rouge
 markdown:    kramdown
 plugins:
@@ -62,9 +63,9 @@ kramdown:
   toc_levels: 1..6
   enable_coderay: false
 
-include: 
+include:
   - .htaccess
-exclude: 
+exclude:
   - "*.less"
   - "*.sublime-project"
   - "*.sublime-workspace"
