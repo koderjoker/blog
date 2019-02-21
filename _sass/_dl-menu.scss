@@ -29,7 +29,7 @@
 	button {
 		top: 0;
 		left: 0;
-		background: $comp-color;
+		background: rgba(0,0,0,0.7);
 		border: none;
 		width: 48px;
 		height: 45px;
@@ -39,7 +39,7 @@
 		cursor: pointer;
 		outline: none;
 		border-radius: 0 0 3px 0;
-		opacity: 0.6;
+		opacity: 0.9;
 		box-shadow: 0 12px 24px rgba(#000,0.4);
 		transition: 0.4s ease-in-out;
 
@@ -66,8 +66,8 @@
 		background: #fff;
 		top: 10px;
 		left: 16%;
-		box-shadow: 
-			0 10px 0 #fff, 
+		box-shadow:
+			0 10px 0 #fff,
 			0 20px 0 #fff;
 	}
 
@@ -196,10 +196,10 @@
 	}
 }
 
-/* 
+/*
 When a submenu is opened, we will hide all li siblings.
 For that we give a class to the parent menu called "dl-subview".
-We also hide the submenu link. 
+We also hide the submenu link.
 The opened submenu will get the class "dl-subviewopen".
 All this is done for any sub-level being entered.
 */
