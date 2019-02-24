@@ -8,7 +8,7 @@ image:
   path: /images/2019-02-24(1).jpg
   feature: 2019-02-24(1).jpg
   credit: amirali mirhashemian
-  creditlink: https://unsplash.com/@amir_v_ali/likes
+  creditlink: https://unsplash.com/@amir_v_ali
 ---
 
 Hi there! Welcome to my blog!
@@ -17,7 +17,7 @@ After a couple of years of anonymous blogging during my middle school and early 
 
 I'm currently debating on whether I should use emojis/gifs in my blog or not. Part of me argues it's high time I deal with this emoji/gif addiction of mine. However, I fear that the emoji and gif forces are too strong to fight.
 
-Oh, and for anyone who's wondering about the strange name of the blog, it's supposed to be a play on the word 'poetic'; coined from the two words- 'poem' and 'technology'.
+Oh, and for anyone who's wondering about the strange name of the blog, it's supposed to be a play on the word 'poetic'; coined from the two words 'poem' and 'technology'.
 
 > Poetic && Poetech
 
