@@ -521,10 +521,10 @@ header .entry-meta {
 	@include clearfix;
 	margin: 2em auto;
 	text-align: center;
-	color: lighten($text-color,20);
+	color: #ffffff;
 
 	a {
-		color: lighten($text-color,20);
+		color: #ffffff;
 	}
 }
 
